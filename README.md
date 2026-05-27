@@ -1,5 +1,8 @@
 # ZAP Protocol Benchmarks
 
+> **Docs:** [ZAP benchmark suite](https://zap-proto.dev/docs/benchmarks) · part of the [ZAP Protocol](https://zap-proto.io)
+
+
 Real-world performance benchmarks for ZAP Protocol comparing against Protobuf, JSON, and traditional architectures.
 
 ## Benchmark Categories
